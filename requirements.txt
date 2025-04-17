@@ -1,0 +1,5 @@
+selenium 
+pandas
+chromedriver-autoinstaller
+xlsxwriter
+webdriver-manager
